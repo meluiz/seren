@@ -1,0 +1,48 @@
+{
+  "name": "seren",
+  "displayName": "Seren",
+  "publisher": "meluiz",
+  "description": "A dark theme with a subtly colorful touch for VSCode.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meluiz/seren"
+  },
+  "icon": "icon.png",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Seren Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Seren-Blue-color-theme.json"
+      },
+      {
+        "label": "Seren Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Seren-Green-color-theme.json"
+      },
+      {
+        "label": "Seren Red",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Seren-Red-color-theme.json"
+      },
+      {
+        "label": "Seren Rose",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Seren-Rose-color-theme.json"
+      },
+      {
+        "label": "Seren Yellow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Seren-Yellow-color-theme.json"
+      }
+    ]
+  }
+}
