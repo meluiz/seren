@@ -9,7 +9,7 @@
     "url": "https://github.com/meluiz/seren"
   },
   "icon": "icon.png",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.78.0"
   },
