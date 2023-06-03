@@ -1,5 +1,3 @@
-![Seren Preview](https://raw.githubusercontent.com/meluiz/seren/main/icon-static.png)
-
 # Seren Themes
 
 <p align="center">
