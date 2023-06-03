@@ -29,6 +29,11 @@
         "path": "./themes/Seren-Green-color-theme.json"
       },
       {
+        "label": "Seren Orange",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Seren-Orange-color-theme.json"
+      },
+      {
         "label": "Seren Red",
         "uiTheme": "vs-dark",
         "path": "./themes/Seren-Red-color-theme.json"
