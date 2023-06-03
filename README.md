@@ -2,7 +2,9 @@
 
 # Seren Themes
 
-![Seren Logo](https://raw.githubusercontent.com/meluiz/seren/main/icon-static.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/meluiz/seren/main/icon-static.png" alt="Seren Logo" />
+</p>
 
 A dark theme with a subtly colorful touch for VSCode.
 
